@@ -1,0 +1,16 @@
+What is the DOM?
+Is an object representation of the HTML elements that are deploy in the application, it's liek a bridge between the code and the UI.
+
+What is the difference between Imperative vs Declarative Programming - Think about the difference between step-by-step instructions on how to make a pizza vs just ordering a pizza.
+I think about Imperative as a very specific way to do a thing, and doesn't matter any other way to do it, only the way I wrote, is not anything about flexibility in this case.
+In the other hand I think about Declarative as a very flexibility way to get a result, as we wrote only a general idea, whatever way to get the result it would be fine.
+
+What is JSX – the syntax extension for JavaScript?
+So JSX is a syntax extension for JS that let us write HTML code elements inside JavaScript functions, to get an easy way to read and create in the UI of the application.
+
+What is the Babel interpreter?
+Is like a translator from JSX to the browser, in order to get working, and deploy (show) the JSX syntax in the applicaction is neccesary use Babel
+
+What is the difference between props and state?
+Props are read-only information that's passed to components. State is information that can change over time, usually triggered by user interaction.
+Answer from Chapter 7 "It’s time to take a quiz!"
